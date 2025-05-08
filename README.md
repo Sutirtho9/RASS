@@ -46,10 +46,10 @@ RASS (Rapid AI Speech System) is a Python-based desktop voice assistant designed
 
 ## Contributors
 
-- [Ayush 21BCS4922](https://github.com/Ayush-kathayat)
-- [Rohit 21BCS4860](https://www.linkedin.com/in/rohit--kumar-/)
-- [Shashi 21BCS4240](https://www.linkedin.com/in/bala-shashi-51249b219/)
-- [Sutirtho 21BCS4975](https://www.linkedin.com/in/sutirtho-chakravorty-239214231/)
+- [Ayush](https://github.com/Ayush-kathayat)
+- [Rohit](https://www.linkedin.com/in/rohit--kumar-/)
+- [Shashi](https://www.linkedin.com/in/bala-shashi-51249b219/)
+- [Sutirtho](https://github.com/Sutirtho9)
 
 ## License
 
